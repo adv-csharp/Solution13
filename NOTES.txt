@@ -11,3 +11,15 @@ Deploy - installer
 
 	InstallShield
 Methodology
+
+	Waterfall
+	RUP
+
+	Agile
+		TESTING-TDD
+		XP
+		Scrum
+			1. Product Owner - صاحب محصول
+			2. Scrum Master راهنما و مشاور
+			3. Project Manager - مدیر پروژه
+			4. Development Team - تیم توسعه
