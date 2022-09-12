@@ -1,6 +1,9 @@
-EMAIL
+﻿EMAIL
 SMS
 Embeded DB
+	  دیتابیس توکار 
+	  SqlCE
+	  Sqlite
 Func & Action
 Deploy - installer
 Methodology
