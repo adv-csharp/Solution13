@@ -6,4 +6,8 @@ Embeded DB
 	  Sqlite
 Func & Action
 Deploy - installer
+	obfuscate 
+	neo-ConfuserEx
+
+	InstallShield
 Methodology
