@@ -1,0 +1,6 @@
+EMAIL
+SMS
+Embeded DB
+Func & Action
+Deploy - installer
+Methodology
