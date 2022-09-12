@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_email_and_sms", "1_email_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_sqlite", "2_sqlite\2_sqlite.csproj", "{85A47DAE-0CAA-48BE-B262-E70954A0A35E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_lambda", "3_lambda\3_lambda.csproj", "{D4C0933A-A189-485C-B3D7-30C0DBEC016A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{85A47DAE-0CAA-48BE-B262-E70954A0A35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85A47DAE-0CAA-48BE-B262-E70954A0A35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85A47DAE-0CAA-48BE-B262-E70954A0A35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C0933A-A189-485C-B3D7-30C0DBEC016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C0933A-A189-485C-B3D7-30C0DBEC016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C0933A-A189-485C-B3D7-30C0DBEC016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C0933A-A189-485C-B3D7-30C0DBEC016A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
