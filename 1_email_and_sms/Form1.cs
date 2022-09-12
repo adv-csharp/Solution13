@@ -10,6 +10,19 @@ namespace _1_email_and_sms
             InitializeComponent();
         }
 
+        delegate int MyFunc(int a);
+
+        List<int> MySelect2(int[] arr, MyFunc func)
+        {
+            var result = new List<int>();
+            foreach (var a in arr)
+            {
+                result.Add(func(a));
+            }
+            return result;
+        }
+
+
         private void buttonSend_Click(object sender, EventArgs e)
         {
             /*

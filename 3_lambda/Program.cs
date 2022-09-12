@@ -2,6 +2,8 @@
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 
+
+
 var arr = new int[] { 1, 2, 3, 4, 5 };
 //arr.Select(x => x * 2);
 //arr.Select(x => x * x);
@@ -27,6 +29,8 @@ List<int> MySelect(int[] arr)
 }
 
 MySelect2(arr, x => x * 2);
+
+
 
 List<int> MySelect2(int[] arr,  Func<int, int> func)
 {
